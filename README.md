@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Hello, my friends! I wanna introduce myself. My name is Muhammad Aditya Yufnanda, I'm a Computer Engineering student at Syiah Kuala University, Banda Aceh, Indonesia. I have a high interest in tech world. I hope I can become a software developer. That’s all from me. Thank you for your attention.
+Hello, my friends! I wanna introduce myself. My name is Muhammad Aditya Yufnanda, I'm a Computer Engineering student at Syiah Kuala University, Banda Aceh, Indonesia. I have a high interest in tech world. I hope I can become a software developer. That’s all from me. Thank you for your attention
 
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me : by contact me

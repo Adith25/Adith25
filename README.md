@@ -1,13 +1,5 @@
 ### Hi there 👋 
 
-Hello everyone! My name is Muhammad Aditya Yufnanda, a Computer Engineering graduate from Syiah Kuala University, Banda Aceh, Indonesia. I’m passionate about technology and enjoy exploring how software can create real impact. With a strong interest in software development, I’m eager to keep learning, growing, and contributing to meaningful tech projects. Thank you for your attention.
-
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me : by contact me
-- ⚡ Fun fact : I like to learn any new things
-
----
-
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; padding: 12px;">
 <div align="center" style="padding: 0 20px;">
     <a href="https://instagram.com/adityayufnanda" target=""><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

@@ -4,7 +4,6 @@
 <div align="center" style="padding: 0 20px;">
     <a href="https://instagram.com/adityayufnanda" target=""><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:adityayufnanda25@gmail.com" target=""><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><br><br>
   </div>
 
 <p align="left">

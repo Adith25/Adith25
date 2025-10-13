@@ -1,4 +1,4 @@
-### Hi there 👋.
+### Hi there 👋
 
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; padding: 12px;">
 <div align="center" style="padding: 0 20px;">

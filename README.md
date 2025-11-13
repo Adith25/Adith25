@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; padding: 12px;">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly; padding: 13px;">
 <div align="center" style="padding: 0 20px;">
     <a href="https://instagram.com/adityayufnanda" target=""><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:adityayufnanda25@gmail.com" target=""><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

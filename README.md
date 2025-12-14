@@ -21,7 +21,6 @@ I am an **Informatics Engineering student** with strong interests in:
 * 📱 **Mobile Development** (Flutter)
 * 🌐 **IoT & Embedded Systems** (Arduino, sensors, actuators)
 * 🤖 **Deep Learning & Computer Vision** (Dental caries classification, segmentation models)
-* 💧 **Smart Water Management Systems** aligned with **SDG 6.4**
 
 I enjoy building **real-world, impactful systems** that combine software engineering, hardware integration, and data-driven intelligence.
 
@@ -59,39 +58,6 @@ I enjoy building **real-world, impactful systems** that combine software enginee
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adith25&theme=algolia" />
 </p>
-
----
-
-## 🧩 Featured Projects
-
-### 🔹 LeakGuard
-
-> **IoT-based Irrigation Leakage Detection System**
-
-* Sensors + microcontroller-based monitoring
-* Real-time alerts
-* Focus on agricultural water efficiency
-
-### 🔹 ReWash
-
-> **Laundry Wastewater Reuse System**
-
-* Reuse greywater for non-potable household needs
-* SDG 6.4 implementation
-
-### 🔹 WudhuCycle
-
-> **Smart Water Reuse System for Mosques**
-
-* Hardware implementation + Flutter-based mobile app
-* Field deployment in Desa Kopelma Darussalam
-
-### 🔹 Dental Caries AI
-
-> **Deep Learning for Dental Image Analysis**
-
-* FPN-based segmentation
-* Improved classification accuracy on clinical datasets
 
 ---
 

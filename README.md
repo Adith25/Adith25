@@ -86,6 +86,26 @@ I enjoy building **real-world, impactful systems** that combine software enginee
 
 ---
 
+## 🎧 Spotify Activity
+
+<!-- Typing status -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=1DB954&center=true&vCenter=true&width=500&lines=Offline+—+currently+not+listening+to+Spotify" />
+</p>
+
+<!-- Spotify profile card -->
+<p align="center">
+  <a href="https://open.spotify.com/user/yufnanda?si=7c546fa993164e2b">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yufnanda&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" />
+  </a>
+</p>
+
+<!-- Recently played tracks (last 5 songs) -->
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yufnanda&count=5" />
+</p>
+
+
 ## 📫 Let's Connect
 
 - 📧 Email: **[adityayufnanda25@gmail.com](mailto:adityayufnanda25@gmail.com)**

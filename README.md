@@ -60,4 +60,38 @@ I enjoy building **real-world, impactful systems** that combine software enginee
 
 <!-- Stats cards -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adith25&show
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adith25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adith25&layout=compact&langs_count=8&theme=algolia" />
+</p>
+
+<!-- Commit activity: last 1 month, simple & modern -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adith25&theme=minimal&hide_border=true&area=true&days=30&custom_title=Commit%20Activity%20(Last%2030%20Days)" />
+</p>
+
+---
+
+## 🏆 Achievements & Roles
+
+- 🏛️ Head of Public Relations (**Kadiv Humas**) – Himatekkom
+- 🧪 Research-oriented Final Project (Computer Vision)
+- 🤝 Experienced in collaboration, documentation, and technical communication
+
+---
+
+<!-- Contribution snake (subtle animation) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **[adityayufnanda25@gmail.com](mailto:adityayufnanda25@gmail.com)**
+- 📸 Instagram: **[@adityayufnanda](https://instagram.com/adityayufnanda)**
+- 💻 GitHub: **[Adith25](https://github.com/Adith25)**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=140&section=footer" />
+</p>

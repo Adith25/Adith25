@@ -3,7 +3,7 @@
 <!-- Animated typing header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Flutter+%26+Mobile+Developer;IoT+%7C+Embedded+Systems+Enthusiast;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Flutter+%26+Mobile+Developer;IoT+%7C+Embedded+Systems+Enthusiast;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I am an **Informatics Engineering student** with strong interests in:
+I am an **Computer Engineering student** with strong interests in:
 
 * 📱 **Mobile Development** (Flutter)
 * 🌐 **IoT & Embedded Systems** (Arduino, sensors, actuators)

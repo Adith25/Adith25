@@ -1,117 +1,114 @@
-# Hi there, I'm Adith 👋
+<h2>Hey 👋, I'm <a href="https://github.com/Adith25">Adith</a></h2>
 
-<!-- Top animated banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Welcome%20to%20My%20GitHub&height=120&fontSize=40&animation=fadeIn" />
+<p>
+I am an <strong>Informatics Engineering student</strong> with strong interests in 
+<strong>Mobile Development (Flutter)</strong>, 
+<strong>IoT & Embedded Systems</strong>, and 
+<strong>Deep Learning & Computer Vision</strong>.
+I enjoy building <strong>real-world, impactful systems</strong> that combine software engineering,
+hardware integration, and data-driven intelligence.
 </p>
 
-<!-- Animated typing header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Flutter+%26+Mobile+Developer;IoT+%7C+Embedded+Systems+Enthusiast;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
+<p>
+<a href="mailto:adityayufnanda25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-adityayufnanda25%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/adityayufnanda">
+  <img src="https://img.shields.io/badge/Instagram-@adityayufnanda-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/Adith25">
+  <img src="https://img.shields.io/badge/GitHub-Adith25-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/user/yufnanda?si=7c546fa993164e2b">
+  <img src="https://img.shields.io/badge/Spotify-yufnanda-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+</a>
 </p>
 
-<!-- Social badges (top) -->
-<p align="center">
-  <a href="https://instagram.com/adityayufnanda">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:adityayufnanda25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Adith25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<h2>⚡ Quick Facts</h2>
+
+<ul>
+<li>📱 Focused on <strong>Flutter & Mobile Development</strong></li>
+<li>🌐 Experience with <strong>IoT & Embedded Systems (Arduino, Sensors)</strong></li>
+<li>🤖 Research interest in <strong>Deep Learning & Computer Vision</strong></li>
+<li>🧪 Final Project focused on <strong>Dental Image Segmentation (FPN)</strong></li>
+<li>🏛️ Head of Public Relations (<strong>Kadiv Humas</strong>) – Himatekkom</li>
+<li>🤝 Comfortable with teamwork, documentation, and technical communication</li>
+</ul>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+<strong>Languages</strong><br/>
+<img src="https://skillicons.dev/icons?i=dart,cpp,python,c,java,html,cmake,swift" />
+</p>
+
+<p>
+<strong>Frameworks & Tools</strong><br/>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,arduino,linux" />
+</p>
+
+<p>
+<strong>AI / Data</strong><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 ---
 
-## 🚀 About Me
+<h2>📊 GitHub Analytics</h2>
 
-I am an **Informatics Engineering student** with strong interests in:
-
-- 📱 **Mobile Development** (Flutter)
-- 🌐 **IoT & Embedded Systems** (Arduino, sensors, actuators)
-- 🤖 **Deep Learning & Computer Vision** (Dental caries classification, segmentation models)
-
-I enjoy building **real-world, impactful systems** that combine software engineering, hardware integration, and data-driven intelligence.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,cpp,python,c,java,html,cmake,swift" />
+<p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adith25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </p>
 
-### 📱 Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,arduino,linux" />
+<p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adith25&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
-### 🧠 AI / Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<h3>📈 Commit Activity (Last 30 Days)</h3>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adith25&theme=minimal&hide_border=true&area=true&days=30" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+<h2>🏆 Achievements & Roles</h2>
 
-<!-- Stats cards -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adith25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adith25&layout=compact&langs_count=8&theme=algolia" />
-</p>
-
-<!-- Commit activity: last 1 month, simple & modern -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adith25&theme=minimal&hide_border=true&area=true&days=30&custom_title=Commit%20Activity%20(Last%2030%20Days)" />
-</p>
+<ul>
+<li>🏛️ Head of Public Relations (<strong>Kadiv Humas</strong>) – Himatekkom</li>
+<li>🧪 Research-oriented Final Project (Computer Vision)</li>
+<li>💧 Projects aligned with <strong>SDG 6.4 – Water Efficiency</strong></li>
+<li>📱 Flutter-based application development (Production-ready UI)</li>
+</ul>
 
 ---
 
-## 🏆 Achievements & Roles
+<h2>🎧 Spotify Activity</h2>
 
-- 🏛️ Head of Public Relations (**Kadiv Humas**) – Himatekkom
-- 🧪 Research-oriented Final Project (Computer Vision)
-- 🤝 Experienced in collaboration, documentation, and technical communication
-
----
-
-<!-- Contribution snake (subtle animation) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=1DB954&center=true&vCenter=true&width=520&lines=Offline+—+currently+not+listening+to+Spotify" />
 </p>
 
----
-
-## 🎧 Spotify Activity
-
-<!-- Typing status -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=1DB954&center=true&vCenter=true&width=500&lines=Offline+—+currently+not+listening+to+Spotify" />
-</p>
-
-<!-- Spotify profile card -->
 <p align="center">
   <a href="https://open.spotify.com/user/yufnanda?si=7c546fa993164e2b">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yufnanda&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yufnanda&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
   </a>
 </p>
 
-<!-- Recently played tracks (last 5 songs) -->
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=yufnanda&count=5" />
 </p>
 
-
-## 📫 Let's Connect
-
-- 📧 Email: **[adityayufnanda25@gmail.com](mailto:adityayufnanda25@gmail.com)**
-- 📸 Instagram: **[@adityayufnanda](https://instagram.com/adityayufnanda)**
-- 💻 GitHub: **[Adith25](https://github.com/Adith25)**
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=140&section=footer" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=120&section=footer" />
 </p>

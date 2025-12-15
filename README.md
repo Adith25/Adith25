@@ -33,7 +33,6 @@ I am a **Computer Engineering student** with strong interests in:
 - 📱 **Mobile Development** (Flutter)
 - 🌐 **IoT & Embedded Systems** (Arduino, sensors, actuators)
 - 🤖 **Deep Learning & Computer Vision** (Dental caries classification, segmentation models)
-- 💧 **Smart Water Management Systems** aligned with **SDG 6.4**
 
 I enjoy building **real-world, impactful systems** that combine software engineering, hardware integration, and data-driven intelligence.
 

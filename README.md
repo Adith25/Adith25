@@ -64,8 +64,16 @@ I enjoy building **real-world, impactful systems** that combine software enginee
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adith25&layout=compact&langs_count=8&bg_color=0d1117&title_color=de3543&text_color=c9d1d9&border_color=de3543" />
 </p>
 
+---
+
+## 🔥 Contribution & Streak (Realtime)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adith25&background=0D1117&ring=DE3543&fire=DE3543&currStreakLabel=DE3543&sideLabels=C9D1D9&dates=C9D1D9&stroke=DE3543" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adith25&background=0D1117&ring=DE3543&fire=DE3543&currStreakLabel=DE3543&sideLabels=C9D1D9&dates=C9D1D9&stroke=DE3543" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adith25&bg_color=0d1117&color=de3543&line=de3543&point=c9d1d9&area=true&hide_border=true" />
 </p>
 
 ---

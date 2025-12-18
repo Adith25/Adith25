@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DE3543&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Flutter+%26+Mobile+Developer;IoT+%7C+Embedded+Systems+Enthusiast;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DE3543&center=true&vCenter=true&width=600&lines=Flutter+%26+Mobile+Developer;IoT+%7C+Embedded+Systems+Enthusiast;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
 </p>
 
 <!-- Social badges (flat & clickable like Stanley) -->

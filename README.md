@@ -78,7 +78,7 @@ I enjoy building **real-world, impactful systems** that combine software enginee
 ## 🔥 Contribution & Streak (Realtime)
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adith25&background=0D1117&ring=DE3543&fire=DE3543&currStreakLabel=DE3543&sideLabels=C9D1D9&dates=C9D1D9&stroke=DE3543" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Adith25&background=0D1117&ring=DE3543&fire=DE3543&currStreakLabel=DE3543&sideLabels=C9D1D9&dates=C9D1D9&stroke=DE3543" />
 </p>
 
 <p align="center">

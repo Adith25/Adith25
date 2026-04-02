@@ -26,33 +26,33 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I am a **Computer Engineering student** with strong interests in:
 
-- 📱 **Mobile Development** (Flutter)
-- 🌐 **IoT & Embedded Systems** (Arduino, sensors, actuators)
-- 🤖 **Deep Learning & Computer Vision** (Dental caries classification, segmentation models)
+- **Mobile Development** (Flutter)
+- **IoT & Embedded Systems** (Arduino, sensors, actuators)
+- **Deep Learning & Computer Vision** (Dental caries classification, segmentation models)
 
 I enjoy building **real-world systems** that integrate software engineering, hardware, and data-driven intelligence.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,cpp,python,c,java,html,cmake,swift" />
 </p>
 
-### 📱 Frameworks & Tools
+### Frameworks & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,arduino,linux" />
 </p>
 
-### 🧠 AI / Data
+### AI / Data
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
@@ -60,15 +60,15 @@ I enjoy building **real-world systems** that integrate software engineering, har
 
 ---
 
-# 🏆 Achievements & Roles
+# Achievements & Roles
 
-- 🏛️ Head of Public Relations (**Kadiv Humas**) – Himatekkom  
-- 🧪 Research-based Final Project (Computer Vision)  
-- 🤝 Experienced in collaboration, documentation, and technical communication  
+- Head of Public Relations (**Kadiv Humas**) – Himatekkom  
+- Research-based Final Project (Computer Vision)  
+- Experienced in collaboration, documentation, and technical communication  
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adith25&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=de3543&icon_color=de3543&text_color=c9d1d9&border_color=de3543"/>
@@ -94,7 +94,7 @@ I enjoy building **real-world systems** that integrate software engineering, har
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adith25&color=de3543&style=flat-square"/>

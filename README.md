@@ -1,4 +1,4 @@
-# Hi there, I'm Adith 👋
+# Hi there, I'm Adith👋
 
 <!-- Animated typing header -->
 <p align="center">

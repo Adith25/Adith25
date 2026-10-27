@@ -89,13 +89,19 @@ FastAPI · OCR · Language Model APIs · Image Classification & Segmentation · 
 
 I care about making complex workflows easier to understand—both for the people using the software and the people maintaining it.
 
-## GitHub Activity
+## 🕹️ Adith's Arcade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adith25&amp;theme=github-dark&amp;bg_color=0d1117&amp;color=de3543&amp;line=de3543&amp;point=c9d1d9&amp;area=true&amp;hide_border=true" alt="Adith25 GitHub contribution activity graph" />
+  <img src="./assets/adith-packet-runner.svg" width="960" alt="Adith's Packet Runner: an original animated arcade spacecraft collecting code packets and dodging bugs." />
 </p>
 
-<details>
+<p align="center">
+  <sub>Collect code. Dodge bugs. Ship the build. Repeat.<br />A custom autoplay arcade animation made for this profile.</sub>
+</p>
+
+## GitHub Stats
+
+<details open>
   <summary>More GitHub stats</summary>
 
   <p align="center">

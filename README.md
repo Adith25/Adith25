@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adith 👋</h1>
+<h1 align="center">Hi there, I'm Adith👋</h1>
 
 <p align="center">
   <strong>Full-Stack &amp; Mobile Developer · Computer Engineering Background</strong><br />
